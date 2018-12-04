@@ -1,8 +1,6 @@
 package day02
 
 import util.loadResource
-import java.lang.RuntimeException
-import java.util.regex.Pattern
 
 /**
  * [Advent of Code 2017 Day 2](https://adventofcode.com/2017/day/2)
